@@ -1,3 +1,6 @@
+RADIOcity is a fork of Audacity for capturing and viewing RF from RTLSDR.
+I got tired of recording in SDRSharp and then loading into audacity and not having 
+any decent features.
 Audacity(R): free, open source, cross-platform audio software for 
 multi-track recording and editing: https://www.audacityteam.org/ . 
 
